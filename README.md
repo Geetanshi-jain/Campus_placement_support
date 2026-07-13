@@ -77,7 +77,5 @@ flowchart LR
 2. Install dependencies: `npm install`
 3. Start the Vite dev server: `npm run dev`
 
-## Contributors
-- IIPS Placement Cell
-- Built with ❤️ for the students.
-"# Campus_placement_support" 
+## Developed by- 
+- Geetanshi jain .
