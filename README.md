@@ -33,26 +33,27 @@ An AI-powered placement preparation platform designed specifically for students 
 ## Architecture
 
 ```mermaid
-architecture-beta
-    group frontend(logo:react, fill:#1e1e1e, color:#61dafb) Frontend
-    group backend(logo:django, fill:#1e1e1e, color:#092e20) Backend
-    group ai(logo:google, fill:#1e1e1e, color:#4285f4) AI Layer
+flowchart LR
+    subgraph Frontend
+        React["React SPA"]
+    end
 
-    service react(logo:react, text:React SPA) in frontend
-    service drf(logo:django, text:Django REST API) in backend
-    service sqlite(logo:sqlite, text:SQLite Database) in backend
-    service faiss(logo:python, text:FAISS Vector Store) in backend
-    
-    service gemini(logo:google, text:Gemini API) in ai
-    service embed(logo:python, text:Sentence Transformers) in ai
+    subgraph Backend
+        DRF["Django REST API"]
+        SQLite[("SQLite Database")]
+        FAISS[("FAISS Vector Store")]
+    end
 
-    react:R --> L:drf
-    
-    drf:B --> T:sqlite
-    drf:R --> L:faiss
-    
-    drf:T --> B:gemini
-    drf:R --> L:embed
+    subgraph "AI Layer"
+        Gemini["Gemini API"]
+        Embed["Sentence Transformers"]
+    end
+
+    React --> DRF
+    DRF --> SQLite
+    DRF --> FAISS
+    DRF --> Gemini
+    DRF --> Embed
 ```
 
 ### High-Level Workflow (RAG)
