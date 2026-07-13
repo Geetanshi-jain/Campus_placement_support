@@ -1,0 +1,69 @@
+Company: Quantiphi
+Author: Palak Kumrawat
+Source: Medium (personal blog)
+Source URL: https://medium.com/@palakkumrawat05/quantiphis-pool-campus-drive-interview-experience-qcdp-program-fc0ec749d9f0
+Published: June 15, 2026
+Verdict: Selected
+Overall Process: 2 online assessments (on-campus at IET DAVV) + 2 technical interview rounds + 1 HR round, interviews conducted online via Unstop.
+
+---
+
+ROUND 1: Technical Assessment 1
+Format: Online, on-campus
+Topics covered: Aptitude (Quantitative, Verbal, Logical Reasoning), CS fundamentals (~80 MCQs covering DBMS, OS, OOPs, Networking, basic programming), 3 coding questions (Easy/Medium/Hard) on arrays, strings, stacks, queues, BFS/DFS.
+Difficulty note: Manageable with a decent DSA foundation.
+
+---
+
+ROUND 2: Technical Assessment 2
+Format: Online coding round (for those who cleared Round 1)
+Topics covered: 2 medium-level coding problems — one on Trees, one on Graphs, both primarily solvable using BFS/DFS approaches.
+
+---
+
+ROUND 3: Technical Interview Round 1
+Shortlist: ~27 students from her campus (7500+ students appeared drive-wide)
+Format: Online (Unstop), started with resume/project deep-dive.
+Key areas discussed:
+- Project walkthrough (author's project used Gemini AI API) — integration approach, challenges faced, limitations, and possible future improvements.
+- Deployment & DevOps — deployment platform used, GitHub Actions workflow structure, integration with Azure, which Azure services were used.
+- Docker basics — what Docker is, commonly used commands.
+- Backend/DB concepts asked: JWT explanation, JWT vs session-based auth, purpose and need of database indexing, MVC architecture.
+- SQL questions asked: query to find second-highest salary in an employee table; query to find duplicate employee names (solved using GROUP BY).
+- DSA concepts discussed: Merge Sort, Sliding Window technique, cycle detection in a linked list (explained via Floyd's Cycle Detection / slow-fast pointer approach).
+- One behavioral question: a challenge faced and how it was overcome.
+Interviewer focus: depth of technical knowledge and practical experience with technologies used in projects.
+
+---
+
+ROUND 4: Technical Interview Round 2
+Shortlist: ~10 students from her campus
+Format: Online (Unstop), resume/project-based start, heavier focus on Java and backend since the project used React + Java + Spring Boot.
+Key areas discussed:
+- Spring Boot annotations used and their purpose; difference between @RequestMapping and @GetMapping; difference between GET and POST APIs.
+- Java/OOP fundamentals: runtime vs compile-time polymorphism with examples.
+- Data structures studied: Arrays, Strings, Linked Lists, Stacks, Queues — asked for real-world software-system analogies for Stack and Queue (e.g., recursive function calls use a stack; write-heavy operations often use queues), rather than generic real-life examples.
+- Difference between ArrayList and LinkedList, and why insertions/deletions are slower in ArrayList.
+- Database: Primary Keys and Indexing — specifically when indexing should and shouldn't be used.
+- Problem given: remove duplicate elements from an array — asked to explain multiple approaches and discuss trade-offs/efficiency, not just give one solution.
+- Brief discussion on cloud computing and GitHub at a high level.
+Interviewer style note: preferred concise, direct answers over lengthy explanations. Overall focus was on fundamentals and clarity of thought rather than solving very hard problems.
+
+---
+
+ROUND 5: HR Round
+Format: Conversational, described by interviewer as "a discussion, not an interview."
+Topics covered:
+- Self-introduction and internship experience — problem statement worked on, impact of the work, individual contribution to that impact.
+- Career track preference discussion (author mentioned Cloud as area of interest; interviewer probed further on which specific areas within Cloud).
+- General discussion on companies working in Cloud/Big Data space (author mentioned Databricks, Snowflake, AWS, GCP, Quantiphi, EY as companies of interest).
+- Situational question: how to prioritize and manage four simultaneous projects with the same priority and deadline — covering planning, stakeholder coordination, task breakdown, and dependency identification.
+- Closed with an opportunity for the candidate to ask questions.
+
+---
+
+KEY TAKEAWAYS FOR JUNIORS (paraphrased from author's reflections):
+- Process tests a balanced mix of problem-solving, CS fundamentals, project depth, communication, and practical software development understanding.
+- Be ready to explain every technology/tool mentioned on your resume in depth (deployment, APIs used, specific configurations) — interviewers dig deep into resume claims rather than asking generic theory.
+- Practice explaining trade-offs between multiple approaches to a problem, not just one working solution.
+- HR round is conversational and also probes career direction and prioritization/time-management thinking, not just standard HR questions.

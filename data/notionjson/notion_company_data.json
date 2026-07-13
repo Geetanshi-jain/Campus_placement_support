@@ -1,0 +1,268 @@
+{
+  "source_type": "notion_db",
+  "companies": [
+    {
+      "company": "Cognam",
+      "company_aliases": ["cognam"],
+      "date_shared": "2025-08-27",
+      "package": {
+        "ctc": "N/A - not shared",
+        "notes": "No salary/package details were shared in the placement cell announcements."
+      },
+      "eligibility": {
+        "courses": ["MCA", "M.Tech (IT)"],
+        "batch": "2026",
+        "min_cgpa": "7.0/10",
+        "min_10th_12th": "70%+",
+        "backlogs": "No active backlogs"
+      },
+      "hiring_process": [
+        "Registration - eligibility verification + company shortlisting",
+        "Online Assessment (8 Sept) at IIPS - Aptitude, Logical Reasoning, Programming/Coding, Technical MCQs (Laptop + Webcam + Mic mandatory)",
+        "Technical Interviews (9 Sept onwards) - 3-4 evaluation rounds over 4 days depending on role",
+        "Typical flow: Technical Interview -> Coding/Problem Solving -> Technical Discussion/Managerial Round -> HR/Final Discussion"
+      ],
+      "final_selects": {
+        "status": "initial",
+        "count": 6,
+        "candidates": ["Akarsh Pahariya", "Anushka Shukla", "Mohd Zakie Khan", "Aryan Chouhan", "Pratik Ajbe", "Pratyush Namdev"],
+        "notes": "Additional names could be added later after final confirmations from the company."
+      },
+      "quick_overview": "MCA & M.Tech(IT) 2026 batch, CGPA 7.0+, 10th/12th 70%+. Process: Registration -> Online Assessment -> 3-4 Technical/Managerial Interview Rounds over 4 days -> Final Selection. Assessment at IIPS, online with webcam/mic monitoring. No package details shared."
+    },
+    {
+      "company": "GammaEdge",
+      "company_aliases": ["gammaedge"],
+      "date_shared": "2025-09-05",
+      "package": {
+        "ctc": "5.5 LPA",
+        "location": "Indore"
+      },
+      "eligibility": {
+        "courses": ["MCA", "M.Tech", "M.Sc"]
+      },
+      "hiring_process": [
+        "Registration - application form + basic eligibility screening",
+        "Interview Rounds at company premises - candidates divided into Group 1-4, called on different dates (9th-12th Sept). No online assessment; process was interview-based.",
+        "Final Round - only shortlisted candidates invited (Ayush Sharma, Sakshi Muchhala, Aanchal Vyas among final round candidates)",
+        "Final Selection"
+      ],
+      "final_selects": {
+        "status": "final",
+        "count": 7,
+        "candidates": ["Tarun Suthar", "Aditi Kale", "Ajay Malviya", "Devraj Singh Kurmi", "Ayush Sharma", "Sakshi Muchhala", "Aanchal Vyas"]
+      },
+      "quick_overview": "Package 5.5 LPA, location Indore. Eligible: MCA, M.Tech, M.Sc. Process was primarily interview-driven (no aptitude/coding test mentioned) - Registration -> Company Shortlisting -> Multiple Group-wise Interview Rounds -> Final Round -> Final Selection. 7 candidates selected."
+    },
+    {
+      "company": "LTI Mindtree",
+      "company_aliases": ["lti mindtree", "ltimindtree", "lti"],
+      "date_shared": "2025-09-06",
+      "package": {
+        "role": "Graduate Engineer Trainee (GET)",
+        "ctc": "4.05 LPA",
+        "service_bond": "No Bond"
+      },
+      "eligibility": {
+        "courses": ["B.E./B.Tech.", "M.E./M.Tech.", "MCA", "M.Sc (5-Year Integrated CS/IT)"],
+        "batch": "2026",
+        "min_percentage": "60% throughout academics",
+        "backlogs": "No active backlogs",
+        "academic_gap": "Max 2 years",
+        "nationality": "Indian National"
+      },
+      "hiring_process": [
+        "Registration & Shortlisting - eligibility verification + resume screening",
+        "Online Assessment - Aptitude, Logical Reasoning, Technical MCQs, basic Coding",
+        "AI-Enabled Bot Interview (BerriBot) - only 92 shortlisted appeared; evaluated technical knowledge, coding, problem-solving, resume-based questions, communication; AI-proctored (webcam, face detection, browser tab monitoring, screen/audio sharing, anti-cheating checks)",
+        "Technical Interview by LTIMindtree SME Panels - Java/C/C++/Python, DBMS, OOP, OS, Networking, Projects, Coding discussion",
+        "Final Selection - some candidates initially marked 'In Progress', remaining final selects announced later"
+      ],
+      "final_selects": {
+        "status": "final (from in-progress list)",
+        "count": 3,
+        "candidates": ["Sakshi Singh", "Aakash Kumar Mathur", "Shashwat Wawge"],
+        "notes": "First list released via attached Excel with some 'Interview In Progress' candidates; these 3 announced later."
+      },
+      "quick_overview": "GET role, 4.05 LPA, no bond. Eligible: BE/BTech/ME/MTech, MCA, Integrated M.Sc(CS/IT), 60%+, no backlogs, max 2-year gap. Process: Registration -> Shortlisting -> Online Assessment -> AI Bot Interview (BerriBot, coding+technical, proctored) -> Technical Interview (SME Panel) -> Final Selection. Special feature: AI-enabled BerriBot interview."
+    },
+    {
+      "company": "DigiValet",
+      "company_aliases": ["digivalet"],
+      "date_shared": "2025-09-09",
+      "package": {
+        "role": "Software Engineer",
+        "training_stipend": "20,000/month",
+        "post_confirmation_ctc": "4-5 LPA",
+        "location": "Indore",
+        "service_bond": "2 Years (after internship completion)"
+      },
+      "eligibility": {
+        "courses": ["MCA"],
+        "departments": ["IIPS", "SCSIT"],
+        "notes": "Only unplaced students"
+      },
+      "hiring_process": [
+        "Registration - Typeform + Google Form submission",
+        "Online Assessment (11 Sept) - Aptitude, Logical Reasoning, Programming, Technical MCQs, Basic Coding",
+        "AI Interview (16 Sept) via Incruiter platform - webcam & mic mandatory, AI proctoring and recording, OTP-based login, Chrome browser on laptop only. Question types: Technical, Programming concepts, Resume & project discussion, HR/Behavioral, recorded video responses (one attempt per question)",
+        "L2 In-Person Technical Interview (20 Sept) at DigiValet office - OOPs, DBMS, SQL, Java/C++/Python, Coding problems, Projects, Problem-solving",
+        "Final HR Interview - Introduction, Strengths & weaknesses, Relocation, Salary expectations, Bond acceptance, Career goals",
+        "Final Selection"
+      ],
+      "final_selects": {
+        "status": "not shared",
+        "count": null,
+        "candidates": [],
+        "notes": "The announcements shared do not include the final selection list."
+      },
+      "quick_overview": "Software Engineer role, training stipend 20K/month, post-confirmation CTC 4-5 LPA, Indore, 2-year bond. Eligible: MCA (IIPS/SCSIT), unplaced only. Process: Registration -> Online Assessment -> AI Interview (Incruiter) -> L2 Technical Interview (office) -> HR Interview -> Final Selection."
+    },
+    {
+      "company": "Reqpedia",
+      "company_aliases": ["reqpedia"],
+      "date_shared": "2025-08-06",
+      "registration_deadline": "2025-08-07 09:00 AM",
+      "package": {
+        "client": "Optum",
+        "roles": ["Java Backend Developer", "React Frontend Developer", "Python/AI/ML Developer"],
+        "ctc": "5-7 LPA (role & performance based)",
+        "work_mode": "Work From Home"
+      },
+      "eligibility": {
+        "courses": ["MCA", "M.Tech"],
+        "min_cgpa": "Above 7.0",
+        "notes": "No other eligibility criteria mentioned"
+      },
+      "hiring_process": [
+        "Registration - online Google Form + basic eligibility verification",
+        "Company Induction (PPT) - company introduction, roles & technology overview, internship/job expectations",
+        "Group Discussion (GD) - evaluated on Communication Skills, Confidence, Teamwork, Analytical Thinking, Leadership",
+        "Technical Interview - Java/Python, OOP, DBMS, SQL, React (frontend role), AI/ML basics (Python role), Projects, Problem-solving. Shortlisted candidates asked to resubmit resumes.",
+        "Internship Offer under Optum ANVAYA Program - start date 1 Oct 2025, work includes AI Solutions, Cloud-native Apps, IoT Solutions, CI/CD, Automation, Testing, Production Support, Daily Scrum"
+      ],
+      "final_selects": {
+        "status": "final",
+        "count": 12,
+        "candidates": ["Aditya Agarwal", "Purvi Choure", "Rachita Dashore", "Gurpreet Kaur", "Anurag Solanki", "Khushi Verma", "Ayush Jaiswal", "Palash Patra", "Adarsh Sharma", "Ritwik Nigam", "Swadha Thakkar", "Swarnali Bhattacharyya"]
+      },
+      "quick_overview": "Client Optum, roles Java Backend/React Frontend/Python-AI-ML Developer, 5-7 LPA, WFH. Eligible: MCA, M.Tech, CGPA 7.0+. Process: Registration -> Company Induction -> Group Discussion -> Technical Interview -> Internship Offer (ANVAYA Program). Internship starts 1 Oct 2025. 12 candidates selected."
+    },
+    {
+      "company": "Quantiphi",
+      "company_aliases": ["quantiphi"],
+      "date_shared": "2025-08-24",
+      "package": {
+        "internship_duration": "6 Months",
+        "internship_stipend": "24,000/month",
+        "fte_ctc_on_conversion": "8.5 LPA",
+        "fte_fixed": "6.5 LPA",
+        "qcdp_bonus": "2 Lakh",
+        "joining": "January 2026 (Tentative)",
+        "location": "Mumbai / Bangalore"
+      },
+      "eligibility": {
+        "roles": {
+          "Framework Engineer (FE)": "B.E./B.Tech./M.E./M.Tech./MCA (CSE/IT & related branches)",
+          "Business Analyst (BA)": "All specializations of B.E./B.Tech./M.E./M.Tech./MCA"
+        }
+      },
+      "hiring_process": [
+        "Round 1 - PPT (Pre-Placement Talk, mandatory attendance) + Online Assessment (Aptitude+Technical for FE / Analytics for BA)",
+        "Round 2 - Interview Round 1 (FE: Technical Interview, BA: Business Analyst Interview)",
+        "Round 3 - Interview Round 2 (FE: Advanced Technical/Problem Solving)",
+        "Round 4 - HR Interview",
+        "Final Selection"
+      ],
+      "final_selects": {
+        "status": "final",
+        "count": 4,
+        "breakdown": {"IET": 2, "IIPS": 2},
+        "candidates": []
+      },
+      "quick_overview": "Stipend 24K/month, FTE package 8.5 LPA (6.5 fixed + 2L QCDP bonus), location Mumbai/Bangalore, 6-month internship. Roles: Framework Engineer, Business Analyst. Process: PPT -> Online Test -> Interview R1 -> Interview R2 (FE)/Further Evaluation -> HR -> Final Selection. 4 candidates selected (2 IET, 2 IIPS).",
+      "related_resource": {
+        "type": "interview_experience",
+        "title": "Quantiphi's Pool Campus Drive Interview Experience (QCDP Program)",
+        "author": "Palak Kumrawat",
+        "url": "https://medium.com/@palakkumrawat05/quantiphis-pool-campus-drive-interview-experience-qcdp-program-fc0ec749d9f0"
+      }
+    },
+    {
+      "company": "Cognizant",
+      "company_aliases": ["cognizant"],
+      "date_shared": "2025",
+      "package": {
+        "role": "Digital Nurture 4.0 - Java Full Stack Engineer (Java FSE)",
+        "batch": "2026",
+        "genc_next_programmer_analyst": "6.75 LPA",
+        "genc_programmer_analyst_trainee": "4 LPA"
+      },
+      "eligibility": {
+        "courses": ["B.E./B.Tech.", "M.E./M.Tech (CS/IT/Circuit branches)"],
+        "min_percentage": "70%+ in 10th, 12th, UG/PG (no rounding)",
+        "backlogs": "No active backlogs",
+        "relocation": "Ready to work from any Cognizant location",
+        "documents": ["Resume + Photo", "PAN Card (joining)", "Passport/Voter ID"]
+      },
+      "hiring_process": [
+        "Registration & Screening - basic eligibility check + academic records verification",
+        "Communication Assessment (Online) - English Speaking, Reading, Listening, Grammar, Pronunciation, Sentence formation",
+        "Technical Qualifier Assessment (Online) - Java, ANSI SQL, HTML, CSS, JavaScript; MCQs, Coding, SQL Queries, Output-based questions, Debugging",
+        "Self Learning & Deep Skilling - ~8 weeks Java Full Stack learning, final assessment after training, only good performers move ahead",
+        "Technical Interview (Offline) - Java OOP, Collections, Exception Handling, Multithreading (basic), JDBC, SQL Queries & Joins, HTML/CSS/JS, Projects, Coding on Java, DBMS & OS basics",
+        "Final Selection - Document Verification, Internal Audit, Offer Letter"
+      ],
+      "final_selects": {
+        "status": "N/A",
+        "count": null,
+        "candidates": []
+      },
+      "quick_overview": "Digital Nurture 4.0 program, Java Full Stack Engineer role. GenC Next: 6.75 LPA, GenC Trainee: 4 LPA. Eligible: BE/BTech/ME/MTech (CS/IT/Circuit), 70%+ throughout, no backlogs. Process: Registration -> Communication Assessment -> Technical Qualifier Assessment -> 8-week Self Learning/Deep Skilling -> Technical Interview -> Final Selection. Only 1 attempt allowed per assessment; AI tool use (e.g. ChatGPT) during tests leads to disqualification. Webcam + Mettl Secure Browser mandatory."
+    }
+  ],
+  "company_profiles": [
+    {
+      "company": "Ccube",
+      "company_aliases": ["ccube", "CCUBE"],
+      "profile": {
+        "ceo": "Mahesh Lalwani (Founder & CEO) - 30+ years experience in software products, data & analytics",
+        "cto": "Ajay Khandelwal - 20+ years in data architecture & cloud",
+        "chief_data_scientist": "Greg Makowski - 20+ years in AI/ML",
+        "hq_usa": "10080 N Wolfe Rd SW3 200, Cupertino, CA 95014",
+        "office_india": "Next Coworks, AB Rd, Aranya Nagar, Vijay Nagar, Indore, MP 452010",
+        "founded": "January 2023"
+      },
+      "products": [
+        {
+          "name": "IntelliConnect",
+          "type": "Flagship Product",
+          "description": "Hybrid RAG-based Search AI Agent. Reduces search time by 30-40%. Used in Customer Support, Healthcare, Finance industries."
+        },
+        {
+          "name": "Guardiance",
+          "type": "AI Agent",
+          "description": "Built for Security and Compliance Monitoring. Continuously monitors whether company rules/regulations (e.g. HIPAA for hospitals, GDPR for EU customer data) are being followed."
+        },
+        {
+          "name": "InboxEyeQ",
+          "type": "Email automation agent",
+          "description": "70% email response time reduction, 35% SLA improvement, auto-routing and ticket creation."
+        },
+        {
+          "name": "SentrAI",
+          "type": "AI governance & control plane",
+          "description": "Document processing, contract analysis, 80% manual effort reduction."
+        }
+      ],
+      "core_values": [
+        {"name": "Curiosity", "hindi": "नए विचार तलाशना, सवाल पूछना, और सीखने की इच्छा रखना", "english": "Asking questions, exploring new ideas, wanting to learn more."},
+        {"name": "Integrity", "hindi": "सब कुछ में ईमानदारी, पारदर्शिता और विश्वास दिखाना", "english": "Being honest, transparent, and trustworthy in everything you do."},
+        {"name": "Innovation", "hindi": "असली समस्याओं को हल करने के लिए नए समाधान बनाना, ट्रेंड नहीं", "english": "Creating new solutions to solve real problems, not just following trends."},
+        {"name": "Speed", "hindi": "गुणवत्ता को नुकसान न पहुंचाते हुए तेजी से काम देना", "english": "Delivering work quickly without compromising quality."},
+        {"name": "Empowerment", "hindi": "टीमों और क्लाइंट्स को उनकी पूरी क्षमता तक पहुंचने में मदद करना", "english": "Helping teams and clients reach their full potential."}
+      ],
+      "note": "This company profile data should be merged with the Ccube drive summary (Drive 1 Jan-Feb 2026, Drive 2 Jun-Jul 2026 'ongoing') from the main CPC drive_summary document at ingestion time, matched via company_aliases."
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+# ========================
+# Frontend (React/Vite)
+# ========================
+frontend/node_modules/
+frontend/dist/
+frontend/dist-ssr/
+frontend/*.local
+frontend/.env*
+!frontend/.env.example
+frontend/.vscode/*
+!frontend/.vscode/extensions.json
+frontend/.idea
+frontend/.DS_Store
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+
+# ========================
+# Backend (Django)
+# ========================
+backend/venv/
+backend/env/
+backend/__pycache__/
+backend/*/__pycache__/
+backend/*/*/__pycache__/
+backend/*/*/*/__pycache__/
+backend/*.py[cod]
+backend/*$py.class
+backend/.env
+backend/db.sqlite3
+backend/media/
+backend/storage/
+backend/vector_store/
+backend/staticfiles/
+
+# ========================
+# General / OS
+# ========================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+*.bak
+*.swp
+*~
+.idea/
+.vscode/
+
+# Ignore local AI agent logs and config if any
+.gemini/
+.agents/

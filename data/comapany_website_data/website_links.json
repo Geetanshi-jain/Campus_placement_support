@@ -1,0 +1,260 @@
+[
+  {
+    "company": "Ccube",
+    "website": "https://www.ccube.com/",
+    "about_page": "https://www.ccube.com/about-us",
+    "confidence": "verified",
+    "warning": "Do NOT confuse with ccube.io (unrelated manufacturing company). This is the correct one - Cupertino HQ, Data/AI/GenAI services, matches drive-summary company profile (Mahesh Lalwani founder)."
+  },
+  {
+    "company": "Infosys",
+    "website": "https://www.infosys.com/",
+    "about_page": "https://www.infosys.com/about.html",
+    "confidence": "verified",
+    "note": "Covers all 3 Infosys drives - Systems Engineer, Specialist Programmer/DSE, HackWithInfy"
+  },
+  {
+    "company": "Capgemini",
+    "website": "https://www.capgemini.com/",
+    "about_page": "https://www.capgemini.com/about-us/",
+    "confidence": "verified"
+  },
+  {
+    "company": "Cognizant",
+    "website": "https://www.cognizant.com/",
+    "about_page": "https://www.cognizant.com/us/en/about-cognizant",
+    "confidence": "verified"
+  },
+  {
+    "company": "LTI Mindtree",
+    "website": "https://www.ltimindtree.com/",
+    "about_page": "https://www.ltimindtree.com/about-us/",
+    "confidence": "verified"
+  },
+  {
+    "company": "Quantiphi",
+    "website": "https://quantiphi.com/",
+    "about_page": "https://quantiphi.com/about-us/",
+    "confidence": "verified"
+  },
+  {
+    "company": "FICO",
+    "website": "https://www.fico.com/",
+    "about_page": "https://www.fico.com/en/about-us",
+    "confidence": "verified"
+  },
+  {
+    "company": "Impetus Technologies",
+    "website": "https://www.impetus.com/",
+    "about_page": "https://www.impetus.com/company/",
+    "confidence": "verified"
+  },
+  {
+    "company": "Tejas Networks",
+    "website": "https://www.tejasnetworks.com/",
+    "about_page": "https://www.tejasnetworks.com/about-us",
+    "confidence": "verified"
+  },
+  {
+    "company": "Google",
+    "website": "https://about.google/",
+    "about_page": "https://about.google/",
+    "confidence": "verified",
+    "note": "Off-campus posting only, not a full CPC drive"
+  },
+  {
+    "company": "Microsoft",
+    "website": "https://www.microsoft.com/",
+    "about_page": "https://www.microsoft.com/en-us/about",
+    "confidence": "verified",
+    "note": "Off-campus posting only"
+  },
+  {
+    "company": "Amazon",
+    "website": "https://www.amazon.jobs/",
+    "about_page": "https://www.aboutamazon.com/",
+    "confidence": "verified",
+    "note": "Off-campus posting only"
+  },
+  {
+    "company": "Visa",
+    "website": "https://www.visa.co.in/",
+    "about_page": "https://www.visa.co.in/about-visa.html",
+    "confidence": "verified",
+    "note": "Off-campus posting only"
+  },
+  {
+    "company": "C-DAC",
+    "website": "https://www.cdac.in/",
+    "about_page": "https://www.cdac.in/index.aspx?id=aboutus",
+    "confidence": "verified",
+    "note": "Government hiring, off-campus posting only"
+  },
+  {
+    "company": "Cognam",
+    "website": "https://www.cognam.com/",
+    "about_page": "https://www.cognam.com/our-company/",
+    "confidence": "verified",
+    "note": "HQ New Delhi + New Jersey USA, IT services company"
+  },
+  {
+    "company": "GammaEdge",
+    "website": "https://gammaedge.io/",
+    "about_page": "https://gammaedge.io/",
+    "confidence": "verified",
+    "note": "Indore HQ, AI/Cloud tech solutions. Also seen as gammaedge.ai in some listings - gammaedge.io is the LinkedIn-verified primary domain."
+  },
+  {
+    "company": "DigiValet",
+    "website": "https://www.digivalet.com/",
+    "about_page": "https://www.digivalet.com/about",
+    "confidence": "verified",
+    "note": "Hospitality/healthcare guest-experience tech company, matches drive summary (AI Interview via Incruiter, Indore role)"
+  },
+  {
+    "company": "NucleusTeq",
+    "website": "https://www.nucleusteq.com/",
+    "about_page": "https://www.nucleusteq.com/about-us",
+    "confidence": "verified",
+    "note": "HQ Phoenix, Arizona; Data Engineer & Software Engineer roles matches drive summary"
+  },
+  {
+    "company": "CubexO",
+    "website": "https://cubexo.io/",
+    "about_page": "https://www.cubexo.io/Aboutus",
+    "confidence": "verified",
+    "note": "Indore-based, Python/Django backend among tech stack, matches drive summary (Backend Developer Python role)"
+  },
+  {
+    "company": "Galaxy Weblinks",
+    "website": "https://www.galaxyweblinks.com/",
+    "about_page": "https://www.galaxyweblinks.com/",
+    "confidence": "verified",
+    "note": "Has an Indore office (307 Bansi Trade Center) alongside US/UAE offices, matches drive summary"
+  },
+  {
+    "company": "Jupiter Brains",
+    "website": "",
+    "about_page": "",
+    "confidence": "needs_verification",
+    "note": "Ambiguous - could not confidently match. Candidates found: Jupiter AI Labs (jupiterailabs.com, IT solutions/AI dev company) or Jupiter/Fi (fintech neobank, hires ML interns). Drive summary describes 'remote AI/ML internship' paired with Galaxy Weblinks - recommend confirming with the placement cell coordinator which exact entity ran this drive before using either link."
+  },
+  {
+    "company": "Deqode",
+    "website": "https://www.deqode.com/",
+    "about_page": "https://www.deqode.com/",
+    "confidence": "verified",
+    "note": "Indore HQ (Atulya IT Park), blockchain/data/ML company - exact match to drive summary role (Blockchain Data & ML Engineer)"
+  },
+  {
+    "company": "CyberCube",
+    "website": "https://www.cybercube.co/",
+    "about_page": "https://www.cybercube.co/company-overview",
+    "confidence": "verified",
+    "warning": "Do NOT confuse with cybcube.com (a separate US-based cyber-risk insurance analytics company, unrelated). This CyberCube (cybercube.co) is Gurugram-based, matches drive summary (2-year lock-in, cybersecurity/compliance)."
+  },
+  {
+    "company": "ProMobi Technologies",
+    "website": "https://promobitech.com/",
+    "about_page": "https://promobitech.com/about",
+    "confidence": "verified",
+    "note": "Pune HQ, matches drive summary (Technical Solutions Associate role, Viman Nagar Pune)"
+  },
+  {
+    "company": "Reqpedia",
+    "website": "https://www.reqpedia.com/",
+    "about_page": "https://reqpedia.com/?page_id=20",
+    "confidence": "verified",
+    "note": "IT staffing/recruitment firm, client was Optum for the ANVAYA program drive"
+  },
+  {
+    "company": "Tennr",
+    "website": "https://www.tennr.com/",
+    "about_page": "https://www.tennr.com/careers",
+    "confidence": "verified",
+    "note": "US healthcare-AI company, matches drive summary (Software Implementation Engineer role)"
+  },
+  {
+    "company": "E-Vitamin",
+    "website": "https://evitamin.in/",
+    "about_page": "https://evitamin.in/pages/about-us",
+    "confidence": "verified",
+    "note": "Indore-based e-commerce/digital marketing company, matches drive summary (PPC/Business Development roles)"
+  },
+  {
+    "company": "GraffersID",
+    "website": "https://graffersid.com/",
+    "about_page": "https://graffersid.com/",
+    "confidence": "verified",
+    "note": "Indore-based, MERN stack + IT staff augmentation, matches drive summary"
+  },
+  {
+    "company": "Technoviaan Software",
+    "website": "https://technoviaan.com/",
+    "about_page": "",
+    "confidence": "medium",
+    "note": "Company registered in Indore (Mahalxmi Nagar) per MCA records, matches drive location. technoviaan.com appears to be the live site but had limited crawlable content at time of search - verify before relying heavily on it for research briefs."
+  },
+  {
+    "company": "Gammastack",
+    "website": "https://www.gammastack.com/",
+    "about_page": "https://www.gammastack.com/about-us",
+    "confidence": "verified",
+    "note": "Crystal IT Park, Indore - exact address match to drive summary walk-in venue"
+  },
+  {
+    "company": "Webkorps Services",
+    "website": "https://www.webkorps.com/",
+    "about_page": "https://www.webkorps.com/about-us",
+    "confidence": "verified"
+  },
+  {
+    "company": "Wyreflow Technologies",
+    "website": "https://wyreflow.com/",
+    "about_page": "https://wyreflow.com/pages-html/about.html",
+    "confidence": "verified",
+    "note": "Bhopal-based, works on US client & government projects - matches drive summary (remote, US night shift)"
+  },
+  {
+    "company": "Hero MotoCorp",
+    "website": "https://www.heromotocorp.com/",
+    "about_page": "https://www.heromotocorp.com/en-in/about-us.html",
+    "confidence": "verified",
+    "note": "Off-campus posting via Unstop (Campus Challenge Season 10)"
+  },
+  {
+    "company": "Ascentt Systems",
+    "website": "https://www.ascentt.com/",
+    "about_page": "https://www.ascentt.com/about-us/",
+    "confidence": "verified",
+    "note": "Off-campus posting - AI/Data Analytics for automotive & manufacturing, Pune delivery center + India AI R&D center"
+  },
+  {
+    "company": "Hustle House",
+    "website": "https://www.thehustlehouseofficial.com/",
+    "about_page": "",
+    "confidence": "medium",
+    "note": "Indore-based, developer internship listings confirmed on Unstop/Internshala. Off-campus posting."
+  },
+  {
+    "company": "Jumbl",
+    "website": "https://jumbl.in/",
+    "about_page": "https://jumbl.in/how-it-works",
+    "confidence": "verified",
+    "note": "Startup internship platform (tech/non-tech), matches drive summary description. Off-campus posting."
+  },
+  {
+    "company": "Anudip Foundation",
+    "website": "https://anudip.org/",
+    "about_page": "https://anudip.org/about-us/",
+    "confidence": "verified",
+    "note": "Training & Placement Program partner with IIPS, not a direct employer - digital skills training for underserved youth"
+  },
+  {
+    "company": "DICE 2026",
+    "website": "",
+    "about_page": "",
+    "confidence": "not_applicable",
+    "note": "This was a hiring/competition event (Business Analyst, Business Growth/Sales, SDE roles), not a standalone company - no separate official website to research. Skip website research for this entry; treat as an event within the drive_summary data only."
+  }
+]
