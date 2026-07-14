@@ -1,0 +1,9 @@
+# ============================================================
+# LOCAL DEVELOPMENT requirements (includes heavy ML libraries)
+# Run: pip install -r requirements-local.txt
+# ============================================================
+-r requirements.txt
+
+# ML Libraries (too heavy for Render free tier, use locally only)
+sentence-transformers==3.1.1
+voyageai==0.3.2
