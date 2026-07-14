@@ -4,7 +4,7 @@ An AI-powered placement preparation platform designed specifically for students 
 
 ## 🌐 Live Demo
 
-- **Frontend:** https://campus-placement-support.vercel.app/
+- **Link :** https://campus-placement-support.vercel.app/
 ## Features
 
 - **AI Placement Assistant (RAG)**: Chat with a Gemini-powered AI that uses Retrieval-Augmented Generation to answer questions based on real, historical IIPS placement experiences. Includes a globally accessible Floating Action Button (FAB).
