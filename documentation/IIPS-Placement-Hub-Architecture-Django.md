@@ -55,7 +55,6 @@
 | File parsing | `openpyxl` / `pandas` | Standard Excel parsing in Python |
 | File storage | `storage/uploads/` (local disk) | No S3 needed for a college project |
 | Hosting | Frontend: Vercel/Netlify · Backend: Railway/Render (Docker) | Free-tier friendly |
-| Orchestration | `docker-compose.yml` (postgres + backend + frontend) | One command to run everything locally |
 
 ---
 
@@ -234,6 +233,6 @@ FAISS is a library, not a server — you own persistence and loading:
 1. **Phase 1 – structured core:** Django auth (built-in), admin upload, experiences CRUD, student submit + filter/browse — no FAISS yet, everything on plain Postgres queries.
 2. **Phase 2 – chatbot without RAG:** wire `/api/chat/ask/` to stuff *all* records into the prompt (fine while data is small, matches current prototype behavior).
 3. **Phase 3 – add RAG:** once records grow past what fits in a prompt, add `ExperienceChunk` model + embeddings + FAISS index so the chatbot scales and cites specific submissions instead of skimming everything.
-4. **Phase 4 – HR-brief + resume-match:** add the web-search-augmented route and the FAISS-based resume checker.
+4. **Phase 4 – HR-brief: ** add the web-search-augmented route and the FAISS-based resume checker.
 
 This lets you ship something working fast and only add the FAISS/RAG layer once "paste everything in the prompt" stops being good enough.

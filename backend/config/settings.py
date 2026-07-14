@@ -36,6 +36,7 @@ INSTALLED_APPS = [
 
 MIDDLEWARE = [
     "django.middleware.security.SecurityMiddleware",
+    "whitenoise.middleware.WhiteNoiseMiddleware",
     "corsheaders.middleware.CorsMiddleware",
     "django.contrib.sessions.middleware.SessionMiddleware",
     "django.middleware.common.CommonMiddleware",
@@ -69,7 +70,7 @@ WSGI_APPLICATION = "config.wsgi.application"
 DATABASES = {
     "default": {
         "ENGINE": "django.db.backends.sqlite3",
-        "NAME": BASE_DIR / "db.sqlite3",
+        "NAME": BASE_DIR / "storage" / "db.sqlite3",
     }
 }
 
@@ -86,6 +87,7 @@ USE_I18N = True
 USE_TZ = True
 
 STATIC_URL = "static/"
+STATIC_ROOT = BASE_DIR / "staticfiles"
 MEDIA_URL = "/media/"
 MEDIA_ROOT = BASE_DIR / "storage" / "uploads"
 
@@ -120,7 +122,7 @@ GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 VOYAGE_API_KEY = os.getenv("VOYAGE_API_KEY", "")
 
 # ── FAISS / Vector store ─────────────────────────────────────────────────────
-VECTOR_STORE_DIR = BASE_DIR / "vector_store"
+VECTOR_STORE_DIR = BASE_DIR / "storage" / "vector_store"
 FAISS_INDEX_PATH = VECTOR_STORE_DIR / "experiences.index"
 FAISS_ID_MAP_PATH = VECTOR_STORE_DIR / "id_map.json"
 

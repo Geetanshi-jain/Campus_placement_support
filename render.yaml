@@ -1,0 +1,22 @@
+services:
+  - type: web
+    name: iips-placement-backend
+    env: python
+    rootDir: backend
+    buildCommand: "./build.sh"
+    startCommand: "gunicorn config.wsgi:application"
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11.0
+      - key: DEBUG
+        value: "False"
+      - key: ALLOWED_HOSTS
+        value: "iips-placement-backend.onrender.com"
+      - key: SECRET_KEY
+        generateValue: true
+      - key: GEMINI_API_KEY
+        sync: false
+    disk:
+      name: sqlite-and-vector-data
+      mountPath: /opt/render/project/src/backend/storage
+      sizeGB: 1
