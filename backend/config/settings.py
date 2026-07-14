@@ -126,8 +126,8 @@ VECTOR_STORE_DIR = BASE_DIR / "storage" / "vector_store"
 FAISS_INDEX_PATH = VECTOR_STORE_DIR / "experiences.index"
 FAISS_ID_MAP_PATH = VECTOR_STORE_DIR / "id_map.json"
 
-# Embedding backend: "sentence_transformers" (local, free) or "voyage" (API)
-EMBEDDING_BACKEND = os.getenv("EMBEDDING_BACKEND", "sentence_transformers")
+# Embedding backend: "sentence_transformers" (local, free), "voyage", or "gemini"
+EMBEDDING_BACKEND = os.getenv("EMBEDDING_BACKEND", "gemini")
 EMBEDDING_MODEL = os.getenv("EMBEDDING_MODEL", "all-MiniLM-L6-v2")  # for ST
 VOYAGE_EMBEDDING_MODEL = os.getenv("VOYAGE_EMBEDDING_MODEL", "voyage-3-lite")
 
