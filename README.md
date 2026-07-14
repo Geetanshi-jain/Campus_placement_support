@@ -2,6 +2,9 @@
 
 An AI-powered placement preparation platform designed specifically for students of the Institute of Information Technology & Management (IIPS). It serves as a centralized hub to browse past placement experiences, chat with an AI assistant grounded in real campus data, and prepare for HR rounds.
 
+## 🌐 Live Demo
+
+- **Frontend:** https://campus-placement-support.vercel.app/
 ## Features
 
 - **AI Placement Assistant (RAG)**: Chat with a Gemini-powered AI that uses Retrieval-Augmented Generation to answer questions based on real, historical IIPS placement experiences. Includes a globally accessible Floating Action Button (FAB).
